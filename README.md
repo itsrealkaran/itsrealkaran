@@ -5,7 +5,7 @@
   - [Twitter](https://twitter.com/itsrealkaran)
   - [Instagram](https://instagram.com/itsrealkaran)
   - [LinkedIn](https://linkedin.com/in/itsrealkaran)
-
+[![trophy](https://github-profile-trophy.vercel.app/?itsrealkaran=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 itsrealkaran/itsrealkaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
