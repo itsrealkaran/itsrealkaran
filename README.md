@@ -183,6 +183,8 @@
   </a>
 </p>
 
+<h2></h2>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrealkaran&show_icons=true&theme=dark&locale=en&layout=compact" alt="itsrealkaran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsrealkaran&show_icons=true&theme=dark&locale=en" alt="itsrealkaran" /></p>
