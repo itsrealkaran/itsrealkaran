@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrealkaran" alt="itsrealkaran" /></a> </p>
 
 
-- 🔭 I’m currently working on **Kapsul**
+- 🔭 I’m currently working on **ArkiveNow**
 
-- 🌱 I’m currently learning **Move**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [itsrealkaran.vecel.app](itsrealkaran.vecel.app)
 
