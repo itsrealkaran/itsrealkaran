@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="226" viewBox="0 0 495 226" role="img"><rect width="495" height="226" rx="0" fill="#0a0a0a"/><rect x="22" y="24" width="7" height="7" fill="#ff2a2a"/>
+<title>Languages across public and private repositories: TypeScript 72.9%, JavaScript 18.3%, Move 5.7%, CSS 1.2%, Makefile 0.7%. Forks excluded.</title>
+<text x="38" y="32" fill="#f4f4f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.4">LANGUAGES</text>
+<text x="473" y="32" fill="#8d8d8d" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.4" text-anchor="end">PUBLIC + PRIVATE</text>
+<text x="22" y="64" fill="#f4f4f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">TypeScript</text>
+<text x="150" y="64" fill="#8d8d8d" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">72.9%</text>
+<rect x="210" y="55" width="250" height="6" fill="#1c1c1c"/>
+<rect x="210" y="55" width="182.4" height="6" fill="#f4f4f4"/>
+<text x="22" y="92" fill="#f4f4f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">JavaScript</text>
+<text x="150" y="92" fill="#8d8d8d" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">18.3%</text>
+<rect x="210" y="83" width="250" height="6" fill="#1c1c1c"/>
+<rect x="210" y="83" width="45.7" height="6" fill="#f4f4f4"/>
+<text x="22" y="120" fill="#f4f4f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Move</text>
+<text x="150" y="120" fill="#8d8d8d" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">5.7%</text>
+<rect x="210" y="111" width="250" height="6" fill="#1c1c1c"/>
+<rect x="210" y="111" width="14.3" height="6" fill="#f4f4f4"/>
+<text x="22" y="148" fill="#f4f4f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">CSS</text>
+<text x="150" y="148" fill="#8d8d8d" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">1.2%</text>
+<rect x="210" y="139" width="250" height="6" fill="#1c1c1c"/>
+<rect x="210" y="139" width="3.1" height="6" fill="#f4f4f4"/>
+<text x="22" y="176" fill="#f4f4f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Makefile</text>
+<text x="150" y="176" fill="#8d8d8d" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">0.7%</text>
+<rect x="210" y="167" width="250" height="6" fill="#1c1c1c"/>
+<rect x="210" y="167" width="2.0" height="6" fill="#f4f4f4"/>
+<text x="22" y="210" fill="#8d8d8d" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.2">FORKS EXCLUDED</text>
+</svg>
