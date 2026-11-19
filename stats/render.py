@@ -126,7 +126,7 @@ def card_open(width, height):
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
         f'viewBox="0 0 {width} {height}" role="img">'
-        f'<rect width="{width}" height="{height}" rx="0" fill="#0a0a0a"/>'
+        f'<rect width="{width}" height="{height}" rx="0" fill="#0D1116"/>'
         f'<rect x="22" y="24" width="7" height="7" fill="#ff2a2a"/>'
     )
 
