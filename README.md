@@ -168,7 +168,7 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsrealkaran&theme=dark&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=itsrealkaran&theme=dark&hide_border=true&background=0D1116" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
