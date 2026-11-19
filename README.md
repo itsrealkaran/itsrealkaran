@@ -160,11 +160,11 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=itsrealkaran&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img src="stats/contributions.svg" alt="Contributions, including private repositories" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsrealkaran&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Most used programming languages" />
+  <img src="stats/languages.svg" alt="Languages across public and private repositories" />
 </p>
 
 <p align="center">
