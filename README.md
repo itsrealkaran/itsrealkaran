@@ -160,11 +160,11 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
 ## GitHub Analytics
 
 <p align="center">
-  <img src="stats/contributions.svg" alt="Contributions, including private repositories" />
+  <img src="stats/contributions.svg?v=0D1116" alt="Contributions, including private repositories" />
 </p>
 
 <p align="center">
-  <img src="stats/languages.svg" alt="Languages across public and private repositories" />
+  <img src="stats/languages.svg?v=0D1116" alt="Languages across public and private repositories" />
 </p>
 
 <p align="center">
