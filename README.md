@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Karan Singh</h1>
-<h3 align="center">Full-Stack & Product Engineer | Blockchain Developer | Building SaaS Products</h3>
+<h1>Hi 👋, I'm Karan Singh</h1>
+<h3>Full-Stack & Product Engineer | Blockchain Developer | Building SaaS Products</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsrealkaran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/itsrealkaran/nothing-github-visits">
+    <img src="https://nothing-github-visits.vercel.app/visits?username=itsrealkaran&theme=classic-r&size=badge" alt="Profile views" />
+  </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-one.vercel.app/?username=itsrealkaran&theme=onedark&no-frame=true&no-bg=true&column=7" alt="GitHub profile trophies" />
+  <a href="https://github.com/itsrealkaran/nothing-github-trophies">
+    <img src="https://nothing-github-trophies.vercel.app/trophies?username=itsrealkaran&theme=classic-r&size=wide" alt="Trophies" />
   </a>
 </p>
 
@@ -157,23 +159,27 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" /></a>
 </p>
 
-## GitHub Analytics
+## GitHub
 
 <p align="center">
-  <img src="stats/contributions.svg?v=0D1116" alt="Contributions, including private repositories" />
+  <a href="https://github.com/itsrealkaran/nothing-github-activity">
+    <img src="https://nothing-github-activity.vercel.app/activity?username=itsrealkaran&theme=classic-r&size=regular" alt="Activity" />
+  </a>
+  <a href="https://github.com/itsrealkaran/nothing-github-streak">
+    <img src="https://nothing-github-streak.vercel.app/streak?username=itsrealkaran&theme=classic-r&size=regular" alt="Streak" />
+  </a>
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsrealkaran/itsrealkaran/0ef4401/stats/languages.svg" alt="Languages across public and private repositories" />
+  <a href="https://github.com/itsrealkaran/nothing-github-languages">
+    <img src="https://nothing-github-languages.vercel.app/languages?username=itsrealkaran&theme=classic-r&size=regular" alt="Languages" />
+  </a>
+  <a href="https://github.com/itsrealkaran/nothing-github-repos">
+    <img src="https://nothing-github-repos.vercel.app/repos?username=itsrealkaran&theme=classic-r&size=regular" alt="Repositories" />
+  </a>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsrealkaran&theme=dark&hide_border=true&background=0D1116" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <a href="https://gitshine.com/stats/itsrealkaran">
-    <img src="https://gitshine.com/card/itsrealkaran?theme=dark" alt="GitHub contribution activity and statistics" />
+  <a href="https://github.com/itsrealkaran/nothing-github-contributions">
+    <img src="https://nothing-github-contributions.vercel.app/contributions?username=itsrealkaran&theme=classic-r&size=wide&glyph=0" alt="Contributions" />
   </a>
 </p>
 
