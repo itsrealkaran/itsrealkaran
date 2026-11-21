@@ -4,9 +4,9 @@
 <p align="left">
   <a href="https://github.com/itsrealkaran/nothing-github-visits">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-visits.vercel.app/visits?username=itsrealkaran&theme=classic-r&size=badge&v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-visits.vercel.app/visits?username=itsrealkaran&theme=white-r&size=badge&v=2">
-      <img alt="Profile views" src="https://nothing-github-visits.vercel.app/visits?username=itsrealkaran&theme=white-r&size=badge&v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-visits.vercel.app/visits?username=itsrealkaran&theme=classic-r&size=badge&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-visits.vercel.app/visits?username=itsrealkaran&theme=white-r&size=badge&v=3">
+      <img alt="Profile views" src="https://nothing-github-visits.vercel.app/visits?username=itsrealkaran&theme=white-r&size=badge&v=3">
     </picture>
   </a>
 </p>
@@ -14,9 +14,9 @@
 <p align="left">
   <a href="https://github.com/itsrealkaran/nothing-github-trophies">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-trophies.vercel.app/trophies?username=itsrealkaran&theme=classic-r&size=wide&v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-trophies.vercel.app/trophies?username=itsrealkaran&theme=white-r&size=wide&v=2">
-      <img alt="Trophies" src="https://nothing-github-trophies.vercel.app/trophies?username=itsrealkaran&theme=white-r&size=wide&v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-trophies.vercel.app/trophies?username=itsrealkaran&theme=classic-r&size=wide&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-trophies.vercel.app/trophies?username=itsrealkaran&theme=white-r&size=wide&v=3">
+      <img alt="Trophies" src="https://nothing-github-trophies.vercel.app/trophies?username=itsrealkaran&theme=white-r&size=wide&v=3">
     </picture>
   </a>
 </p>
@@ -172,41 +172,41 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
 <p align="center">
   <a href="https://github.com/itsrealkaran/nothing-github-activity">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-activity.vercel.app/activity?username=itsrealkaran&theme=classic-r&size=regular&v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-activity.vercel.app/activity?username=itsrealkaran&theme=white-r&size=regular&v=2">
-      <img alt="Activity" src="https://nothing-github-activity.vercel.app/activity?username=itsrealkaran&theme=white-r&size=regular&v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-activity.vercel.app/activity?username=itsrealkaran&theme=classic-r&size=regular&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-activity.vercel.app/activity?username=itsrealkaran&theme=white-r&size=regular&v=3">
+      <img alt="Activity" src="https://nothing-github-activity.vercel.app/activity?username=itsrealkaran&theme=white-r&size=regular&v=3">
     </picture>
   </a>
   <a href="https://github.com/itsrealkaran/nothing-github-streak">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-streak.vercel.app/streak?username=itsrealkaran&theme=classic-r&size=regular&v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-streak.vercel.app/streak?username=itsrealkaran&theme=white-r&size=regular&v=2">
-      <img alt="Streak" src="https://nothing-github-streak.vercel.app/streak?username=itsrealkaran&theme=white-r&size=regular&v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-streak.vercel.app/streak?username=itsrealkaran&theme=classic-r&size=regular&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-streak.vercel.app/streak?username=itsrealkaran&theme=white-r&size=regular&v=3">
+      <img alt="Streak" src="https://nothing-github-streak.vercel.app/streak?username=itsrealkaran&theme=white-r&size=regular&v=3">
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/itsrealkaran/nothing-github-languages">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-languages.vercel.app/languages?username=itsrealkaran&theme=classic-r&size=regular&v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-languages.vercel.app/languages?username=itsrealkaran&theme=white-r&size=regular&v=2">
-      <img alt="Languages" src="https://nothing-github-languages.vercel.app/languages?username=itsrealkaran&theme=white-r&size=regular&v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-languages.vercel.app/languages?username=itsrealkaran&theme=classic-r&size=regular&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-languages.vercel.app/languages?username=itsrealkaran&theme=white-r&size=regular&v=3">
+      <img alt="Languages" src="https://nothing-github-languages.vercel.app/languages?username=itsrealkaran&theme=white-r&size=regular&v=3">
     </picture>
   </a>
   <a href="https://github.com/itsrealkaran/nothing-github-repos">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-repos.vercel.app/repos?username=itsrealkaran&theme=classic-r&size=regular&v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-repos.vercel.app/repos?username=itsrealkaran&theme=white-r&size=regular&v=2">
-      <img alt="Repositories" src="https://nothing-github-repos.vercel.app/repos?username=itsrealkaran&theme=white-r&size=regular&v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-repos.vercel.app/repos?username=itsrealkaran&theme=classic-r&size=regular&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-repos.vercel.app/repos?username=itsrealkaran&theme=white-r&size=regular&v=3">
+      <img alt="Repositories" src="https://nothing-github-repos.vercel.app/repos?username=itsrealkaran&theme=white-r&size=regular&v=3">
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/itsrealkaran/nothing-github-contributions">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-contributions.vercel.app/contributions?username=itsrealkaran&theme=classic-r&size=wide&glyph=0&v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-contributions.vercel.app/contributions?username=itsrealkaran&theme=white-r&size=wide&glyph=0&v=2">
-      <img alt="Contributions" src="https://nothing-github-contributions.vercel.app/contributions?username=itsrealkaran&theme=white-r&size=wide&glyph=0&v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://nothing-github-contributions.vercel.app/contributions?username=itsrealkaran&theme=classic-r&size=wide&glyph=0&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://nothing-github-contributions.vercel.app/contributions?username=itsrealkaran&theme=white-r&size=wide&glyph=0&v=3">
+      <img alt="Contributions" src="https://nothing-github-contributions.vercel.app/contributions?username=itsrealkaran&theme=white-r&size=wide&glyph=0&v=3">
     </picture>
   </a>
 </p>
