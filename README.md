@@ -62,8 +62,11 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
 
 ## Skills
 
-### Programming Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
+<h3>Programming Languages</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -137,8 +140,10 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Frontend Development
+</td>
+<td width="50%" valign="top">
 
+<h3>Frontend Development</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <picture>
@@ -191,8 +196,12 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Backend Development
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+<h3>Backend Development</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <picture>
@@ -224,8 +233,10 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Mobile App Development
+</td>
+<td width="50%" valign="top">
 
+<h3>Mobile App Development</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <picture>
@@ -278,8 +289,12 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Blockchain & Web3
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+<h3>Blockchain & Web3</h3>
 <p align="left">
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <picture>
@@ -332,8 +347,10 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Databases
+</td>
+<td width="50%" valign="top">
 
+<h3>Databases</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -358,8 +375,12 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### DevOps
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+<h3>DevOps</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <picture>
@@ -412,8 +433,10 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Frameworks
+</td>
+<td width="50%" valign="top">
 
+<h3>Frameworks</h3>
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <picture>
@@ -438,8 +461,12 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Testing
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+<h3>Testing</h3>
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <picture>
@@ -457,8 +484,10 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Software
+</td>
+<td width="50%" valign="top">
 
+<h3>Software</h3>
 <p align="left">
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -504,8 +533,12 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
   </a>
 </p>
 
-### Others
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
+<h3>Others</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -536,6 +569,10 @@ I also spent a long stretch in Web3, across hackathons, tooling, and a few ecosy
     </picture>
   </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 ## GitHub
 
