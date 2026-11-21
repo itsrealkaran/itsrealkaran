@@ -21,12 +21,6 @@
   </a>
 </p>
 
-- 🔭 Currently building **[AvenPing](https://avenping.com)** — WhatsApp Business automation and engagement.
-- 🌱 Currently exploring **Rust** and its ecosystem.
-- 👨‍💻 Explore my work: [itsrealkaran.vercel.app](https://itsrealkaran.vercel.app)
-- 💬 Ask me about **full-stack, SaaS, Web3, or anything techy**.
-- 📫 Reach me at **[karansingh@duck.com](mailto:karansingh@duck.com)**
-
 ## About
 
 I like taking a product the whole way: the screen, the mobile app, the backend, the integrations, and the deploy. Right now that product is [AvenPing](https://avenping.com).
